@@ -1,9 +1,7 @@
 # Im Testing it
 
-### Im testing it
-(He's testing it)
-
+### 3D art Example
 ### sans gaming
-Bottom text
+###Bottom text
 -swag
 -swag2
