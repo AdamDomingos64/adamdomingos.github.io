@@ -5,5 +5,5 @@
 
 ### sans gaming
 Bottom text
--0swag
+-swag
 -swag2
